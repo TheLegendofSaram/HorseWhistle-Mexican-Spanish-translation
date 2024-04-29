@@ -1,0 +1,9 @@
+{
+  "item.horse_whistle.horse_whistle_item": "Silbato de caballo",
+
+  "text.config.horse-whistle-config.option.searchRadius": "Radio de búsqueda",
+  "text.config.horse-whistle-config.option.searchRadius.tooltip": "El radio alrededor del jugador en el que buscar tu caballo. El valor predeterminado es 500",
+
+  "text.config.horse-whistle-config.option.durability": "Durabilidad del objeto",
+  "text.config.horse-whistle-config.option.durability.tooltip": "La durabilidad base del objeto Silbato de caballo. El valor predeterminado es 16"
+}
